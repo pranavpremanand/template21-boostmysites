@@ -22,7 +22,7 @@ const CTA = () => {
               alt=""
               loading="lazy"
             />
-            <h2 className="text1">Ready to start your Website at COMPANY NAME?</h2>
+            <h2 className="text1">Ready to start your Website at Codexa?</h2>
             <div>
               <Link
                 to="/contact-us"

@@ -4,28 +4,28 @@ import { circleImg } from "../../content/constant";
 const workProcess = [
   {
     id: 1,
-    title: "Discovery",
-    desc: "Understanding your business in depth—your business goals, audience needs, and challenges.",
+    title: "Vision Discovery",
+    desc: "We dive deep into understanding your business vision, market challenges, and growth objectives to create a foundation for innovation.",
   },
   {
     id: 2,
-    title: "Planning & Strategy Development",
-    desc: "A well-defined roadmap ensures clarity, with deliverables, timelines, and milestones clearly outlined.",
+    title: "Strategic Planning",
+    desc: "Our team develops a comprehensive roadmap with clear milestones, technology stack recommendations, and success metrics tailored to your goals.",
   },
   {
     id: 3,
     title: "Design & Prototyping",
-    desc: "Crafting wireframes and prototypes to visualize the user journey, incorporating your feedback at every stage.",
+    desc: "We create intuitive user experiences and interactive prototypes, ensuring every design decision aligns with your brand and user needs.",
   },
   {
     id: 4,
-    title: "Development & Testing",
-    desc: "Leveraging modern tech stacks, we turn designs into functional solutions, rigorously tested for high performance and security.",
+    title: "Agile Development",
+    desc: "Using cutting-edge technologies and agile methodologies, we build robust, scalable solutions with continuous testing and quality assurance.",
   },
   {
     id: 5,
-    title: "Launch & Deployment",
-    desc: "Efficiently deploying your solution to minimize downtime and maximize impact.",
+    title: "Launch & Optimization",
+    desc: "We ensure seamless deployment and provide ongoing support, monitoring, and optimization to maximize your solution's performance and ROI.",
   },
 ];
 
@@ -48,18 +48,15 @@ const WorkProcess = () => {
       />
       <div className="wrapper space-y-3">
         <h3 className="text1 text-center">
-          How We Bring Your
+          Our Proven
           <br />
-          <span className="text-primary">Idea to Reality</span>
+          <span className="text-primary">Development Journey</span>
         </h3>
         <p
          
           className="desc text-center max-w-4xl mx-auto text-[#FEFEFE]"
         >
-          From concept to completion, COMPANY NAME ensures that your specifications
-          are the foundation of every solution we create. Our structured
-          approach ensures clarity, collaboration, and measurable results at
-          every stage.
+          At Codexa, we follow a proven methodology that transforms your ideas into powerful digital solutions. Our collaborative approach ensures transparency, quality, and measurable results at every stage of development.
         </p>
         <div className="pt-5 flex flex-wrap justify-center gap-5 sm:gap-7 max-w-5xl mx-auto">
           {workProcess.map((item) => (

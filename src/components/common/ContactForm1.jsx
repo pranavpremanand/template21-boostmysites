@@ -44,7 +44,7 @@ const ContactForm1 = () => {
 
       const data = {
         body,
-        name: "COMPANY NAME",
+        name: "Codexa",
         subject: values.subject,
         to: companyDetails.email,
       };

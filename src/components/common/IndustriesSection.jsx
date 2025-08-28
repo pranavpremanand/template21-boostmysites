@@ -35,7 +35,7 @@ const IndustriesSection = () => {
           alt=""
         />
         <h2 data-aos="fade-up" className="text1 text-center">
-          Industries <span className="text-primary">We Serve</span>
+          Transforming <span className="text-primary">Industries</span> Through Technology
         </h2>
       </div>
       <div className="relative h-full pb-7 xl:pb-10">

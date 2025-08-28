@@ -45,7 +45,7 @@ const ContactForm2 = ({ isDark }) => {
 
       const data = {
         body,
-        name: "COMPANY NAME",
+        name: "Codexa",
         subject: values.subject,
         to: companyDetails.email,
       };
@@ -198,10 +198,10 @@ const ContactForm2 = ({ isDark }) => {
           </button>
         </form>
         <div className="space-y-4">
-          <h2 className="text1">Get It Touch</h2>
+          <h2 className="text1">Ready to Transform Your Vision?</h2>
           <div className="h-2 w-[18rem] bg-black"></div>
           <h5 className="text2">
-            Let’s Build Something Extraordinary Together!
+            Let's Build Something Extraordinary Together!
           </h5>
           <p className="desc">
             Your website is more than an online presence—it’s a gateway to
