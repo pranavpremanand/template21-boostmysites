@@ -47,7 +47,7 @@ const ContactUs = () => {
 
       const data = {
         body,
-        name: "Codexa",
+        name: "COMPANY NAME",
         subject: values.subject,
         to: companyDetails.email,
       };

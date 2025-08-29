@@ -94,13 +94,15 @@ const ServicesSection = () => {
             <p className="font-semibold uppercase">Inspired Services</p>
           </div>
           <h2 data-aos="fade-right" className="text1 z-[2] relative">
-            Crafting Digital <br />{" "}
-            <span className="text-primary1">Solutions That Drive </span>
-            Business Growth
+            We Don’t Just Code — <br />{" "}
+            <span className="text-primary1">We Build Around Your </span>
+            Requirements
             <br />
           </h2>
           <p>
-            At Codexa, every project begins with understanding your unique vision and business objectives. We don't believe in generic solutions — we create custom, intelligent, and scalable digital products that are perfectly aligned with your goals. From concept to deployment, we ensure every solution is built to perform, adapt, and grow with your business.
+            At COMPANY NAME, every service starts with your specifications. We don’t
+            believe in one-size-fits-all. We craft smart, scalable, and
+            purpose-built digital solutions — designed to fit, built to perform.
           </p>
           <div data-aos="fade-right" className="flex gap-5 z-[2] relative">
             <button

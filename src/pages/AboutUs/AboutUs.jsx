@@ -30,7 +30,7 @@ const AboutUs = () => {
         ></div>
         <div className="wrapper">
           <h2 data-aos="fade-up" className="text1 text-center">
-            The Codexa Journey
+            Our Story
           </h2>
           <div className="grid md:grid-cols-[40%_1fr] gap-8 pt-5">
             <div className="rounded-xl overflow-hidden">
@@ -44,7 +44,12 @@ const AboutUs = () => {
             </div>
             <div data-aos="fade-up">
               <p className="desc">
-                Codexa was born from a simple yet powerful vision: to bridge the gap between innovative ideas and technological reality. We believe that every business challenge is an opportunity for digital transformation, and every client relationship is a partnership for success. Our journey began with a team of passionate technologists who understood that great software isn't just about code—it's about understanding human needs, business objectives, and market dynamics. Today, Codexa stands as a testament to our commitment to excellence, innovation, and client success, delivering cutting-edge solutions that drive real business impact across industries worldwide.
+                At COMPANY NAME, we see every spec as a story waiting to be
+                told—a unique set of needs and aspirations that, when combined
+                with the right technology, can create something extraordinary.
+                Founded with the belief that great technology starts with
+                understanding, our mission is to transform your visions into
+                meaningful solutions that drive innovation and success.
               </p>
             </div>
           </div>
@@ -57,7 +62,7 @@ const AboutUs = () => {
           className="wrapper flex flex-col items-center gap-3"
         >
           <h2 className="text1 max-w-3xl text-center">
-            Your Success is Our Mission: Codexa's Collaborative Approach
+            Client Engagement & Support: COMPANY NAME's Commitment to You
           </h2>
           <div className="h-2 w-[18rem] bg-white"></div>
         </div>
@@ -72,26 +77,28 @@ const AboutUs = () => {
             />
           </div>
           <div data-aos="fade-up" className="space-y-5">
-            <h4 className="text2">Partnership from Day One</h4>
+            <h4 className="text2">Engaged from Day One</h4>
             <p className="desc">
-              At Codexa, we believe that successful projects are built on strong partnerships. We don't just deliver solutions—we become an extension of your team, working collaboratively to achieve your vision. Here's how we ensure your success:
+              At COMPANY NAME, we prioritize understanding your vision and
+              keeping you involved throughout the journey. Here’s how we stay
+              engaged:
             </p>
             <ul className="space-y-5 pt-3">
               <li>
-                <span className="text4">Strategic Discovery Sessions: </span>
-                Deep-dive workshops to align on vision, goals, and success metrics.
+                <span className="text4">Kickoff Meetings: </span>
+                Align on goals and expectations from the start.
               </li>
               <li>
-                <span className="text4">Transparent Communication: </span>
-                Regular progress updates and milestone celebrations throughout the journey.
+                <span className="text4">Clear Milestones: </span>
+                Regular updates to track progress together.
               </li>
               <li>
-                <span className="text4">Iterative Development: </span>
-                Your feedback drives every iteration, ensuring the final product exceeds expectations.
+                <span className="text4">Feedback Integration: </span>
+                Your input shapes every stage of the project.
               </li>
               <li>
-                <span className="text4">Dedicated Success Manager: </span>
-                A single point of contact for all your questions, concerns, and strategic guidance.
+                <span className="text4">Dedicated Contact: </span>
+                Quick access to support whenever you need it.
               </li>
             </ul>
           </div>
@@ -114,38 +121,36 @@ const AboutUs = () => {
         />
         <div className="wrapper flex flex-col-reverse md:grid grid-cols-2 gap-7">
           <div data-aos="fade-up" className="space-y-3">
-            <h3 className="text2">Beyond Projects: Your Digital Transformation Partner</h3>
+            <h3 className="text2">Ongoing Support</h3>
             <p className="desc">
-              At Codexa, we're not just a service provider—we're your strategic partner in digital transformation. Our commitment extends far beyond project completion, ensuring your long-term success in an ever-evolving digital landscape.
+              Our commitment goes beyond delivery, offering:
             </p>
             <ul className="space-y-5 pt-3">
               <li>
-                <span className="text4 text-primary2">Strategic Roadmapping: </span>
-                Long-term technology planning aligned with your business growth objectives.
+                <span className="text4 text-primary2">
+                  Updates & Enhancements:{" "}
+                </span>
+                Regular improvements to keep you ahead.
+              </li>
+              <li>
+                <span className="text4 text-primary2">24/7 Help Desk: </span>{" "}
+                Quick responses for any issues or questions.
               </li>
               <li>
                 <span className="text4 text-primary2">
-                  Quarterly Business Reviews:{" "}
-                </span>{" "}
-                Regular strategic sessions to assess performance and identify new opportunities.
+                  Performance Checks:{" "}
+                </span>
+                Routine monitoring for peak performance.
+              </li>
+              <li>
+                <span className="text4 text-primary2">Scalable Options: </span>{" "}
+                Flexible adjustments as your needs grow.
               </li>
               <li>
                 <span className="text4 text-primary2">
-                  Technology Evolution:{" "}
-                </span>{" "}
-                Proactive updates and modernization as new technologies emerge.
-              </li>
-              <li>
-                <span className="text4 text-primary2">Priority Response Team: </span>{" "}
-                Dedicated support for urgent business needs and critical system issues.
-              </li>
-              <li>
-                <span className="text4 text-primary2">Market Intelligence: </span>{" "}
-                Industry insights and competitive analysis to inform your strategic decisions.
-              </li>
-              <li>
-                <span className="text4 text-primary2">Growth Acceleration: </span>{" "}
-                Scalable solutions and infrastructure to support your business expansion.
+                  Proactive Solutions:{" "}
+                </span>
+                Identifying and solving issues before they arise.
               </li>
             </ul>
           </div>
@@ -180,7 +185,7 @@ const AboutUs = () => {
           <div data-aos="fade-up" className="space-y-3">
             <h3 className="text2">Partnership Beyond Projects</h3>
             <p className="desc">
-              At Codexa, we’re committed to your growth, even after
+              At COMPANY NAME, we’re committed to your growth, even after
               project completion: Future
             </p>
             <ul className="space-y-5 pt-3">
@@ -229,15 +234,21 @@ const AboutUs = () => {
             className="z-[-1] w-[6rem] h-[6rem] rounded-full bg-[radial-gradient(circle,_#FFFFFF,_#FFFF82)] absolute top-full right-[15%] drop-shadow-2xl"
           ></div>
           <h2 data-aos="fade-up" className="text1 text-primary2">
-            Codexa's Vision for Tomorrow
+            Vision
           </h2>
           <p data-aos="fade-up" className="desc max-w-4xl mx-auto">
-            Codexa envisions a future where technology seamlessly bridges the gap between human potential and digital innovation. We strive to be the catalyst that transforms complex business challenges into elegant, AI-powered solutions that drive measurable impact. Our vision extends beyond traditional software development—we're building the foundation for a world where businesses thrive through intelligent automation, data-driven insights, and collaborative innovation. We're committed to empowering organizations to not just adapt to change, but to lead it, creating sustainable growth and meaningful connections in an increasingly digital world.
+            To lead the next wave of digital transformation by turning complex
+            into intelligent, AI-powered solutions. COMPANY NAME is committed to
+            redefining how businesses innovate, fostering sustainable growth,
+            and building meaningful connections in a future shaped by advanced
+            technologies. With a focus on adaptability, precision, and
+            collaboration, we aim to empower businesses to navigate tomorrow’s
+            challenges with confidence and creativity.
           </p>
         </div>
         <div className="wrapper py-16 text-center">
           <h2 data-aos="fade-up" className="text1 text-primary2">
-            Codexa's Strategic Roadmap
+            Future Goals
           </h2>
           <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-7 pt-7">
             {futureGoals.map((item) => (

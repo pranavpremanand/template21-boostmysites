@@ -9,15 +9,15 @@ import { LuBrainCircuit } from "react-icons/lu";
 export { logo, circleImg, moonShapeImg };
 
 export const companyDetails = {
-  email: "support@Codexa.com",
-  location: "226, Saraswati lane, Aravindo nagar, Pandra Square, Bhuvaneswar, Khorda, 751010",
-  phone: "8018705115",
-  whatsapp: "https://wa.me/918018705115",
-  instagram: "https://www.instagram.com/Codexa",
-  linkedin: "https://www.linkedin.com/company/Codexa/",
-  youtube: "https://www.youtube.com/@Codexa",
-  x: "https://x.com/Codexa",
-  facebook: "https://www.facebook.com/Codexa",
+  email: "support@COMPANY NAME.com",
+  location: "123 Main Street, City, State, Country",
+  phone: "0000000000",
+  whatsapp: "https://wa.me/000000000",
+  instagram: "https://www.instagram.com/COMPANY NAME",
+  linkedin: "https://www.linkedin.com/company/COMPANY NAME/",
+  youtube: "https://www.youtube.com/@COMPANY NAME",
+  x: "https://x.com/COMPANY NAME",
+  facebook: "https://www.facebook.com/COMPANY NAME",
 };
 // industries
 export const industries = [
@@ -25,70 +25,70 @@ export const industries = [
     id: 1,
     title: "FinTech and Banking",
     image: "/assets/images/icons/FinTech and Banking.png",
-    desc: "Codexa revolutionizes financial services with secure, scalable fintech solutions, AI-powered risk assessment, and blockchain integration for modern banking operations.",
+    desc: "Designing fintech to revolutionize banking operations.",
   },
   {
     id: 2,
     title: "Healthcare and Biotech",
     image: "/assets/images/icons/Healthcare and Biotech.png",
-    desc: "Codexa transforms healthcare delivery with AI-powered diagnostics, telemedicine platforms, and data-driven solutions that enhance patient care and operational efficiency.",
+    desc: "Turning healthcare needs into solutions that advance patient care and optimize operations.",
   },
   {
     id: 3,
     title: "E-commerce and Retail",
     image: "/assets/images/icons/E-commerce and Retail.png",
-    desc: "Codexa creates immersive e-commerce experiences with AI-driven personalization, AR-powered shopping, and scalable platforms that drive conversion and customer engagement.",
+    desc: "Meeting retail demands with scalable e-commerce platforms, predictive analytics, and AI-powered chatbots.",
   },
   {
     id: 4,
     title: "Gaming and Entertainment",
     image: "/assets/images/icons/Gaming and Entertainment.png",
-    desc: "Codexa crafts next-generation gaming experiences with cutting-edge graphics, multiplayer systems, and immersive AR/VR technologies that captivate audiences worldwide.",
+    desc: "Crafting immersive gaming experiences with AR/VR and real-time player interactions.",
   },
   {
     id: 5,
-    title: "Logistics and Supply Chain",
+    title: "Logistics and Supply Chain Management",
     image: "/assets/images/icons/Logistics and Supply Chain Management.png",
-    desc: "Codexa optimizes supply chains with IoT-driven tracking, AI-powered route optimization, and real-time analytics that enhance efficiency and reduce operational costs.",
+    desc: "Enhancing supply chain efficiency with IoT-driven tracking systems and predictive analytics.",
   },
   {
     id: 6,
     title: "Education and E-Learning",
     image: "/assets/images/icons/Education and E-Learning.png",
-    desc: "Codexa revolutionizes education with adaptive learning platforms, virtual classrooms, and AI-powered content personalization that enhances student engagement and outcomes.",
+    desc: "Shaping education through adaptive learning platforms and virtual classrooms.",
   },
   {
     id: 7,
     title: "Restaurants and Hotels",
     image: "/assets/images/icons/Restaurants and Hotels.png",
-    desc: "Codexa elevates hospitality with smart booking systems, AI-powered guest services, and digital solutions that enhance customer experiences and operational efficiency.",
+    desc: "Designing hospitality solutions to elevate guest experiences with AI-powered services.",
   },
 ];
 
 export const testimonials = [
   {
-    name: "Sarah Johnson",
+    name: "Sandheep Chauhan",
     image: require("../assets/images/testimonial/2.jpg"),
     review:
-      "Codexa transformed our healthcare platform with AI-powered diagnostics and seamless patient management. Their innovative approach and technical expertise exceeded all our expectations.",
-    position: "CTO",
-    company: "MEDTECH INNOVATIONS",
+      "COMPANY NAME delivered exactly what we needed. Their expertise in web development transformed our online presence and boosted our engagement significantly.",
+    position: "Founder",
+    company: "BRIGHTWAVE SOLUTIONS",
   },
   {
-    name: "Michael Chen",
+    name: "Rahul Gupta",
     image: require("../assets/images/testimonial/3.jpg"),
     review:
-      "Working with Codexa was a game-changer for our fintech startup. They delivered a secure, scalable platform that helped us process millions of transactions with zero downtime.",
-    position: "Founder & CEO",
-    company: "DIGITAL PAY SOLUTIONS",
+      "The mobile app they developed for us is flawless. The team was professional, communicative, and exceeded all our expectations.",
+    position: "CEO",
+    company: "FINTECH INNOVATORS",
   },
   {
-    name: "Emily Rodriguez",
+    name: "Priya Desai",
     image: require("../assets/images/testimonial/1.jpg"),
     review:
-      "Codexa's AI and data science solutions revolutionized our e-commerce platform. Their personalized recommendation engine increased our conversion rates by 40% within the first quarter.",
-    position: "VP of Technology",
-    company: "RETAIL TECH CORP",
+      "Their Al and data science services revolutionized our analytics. We can now make smarter, data-driven decisions effortlessly.",
+    position: "COO",
+    company: "GLOBAL TRADE CORP",
   },
 ];
 
@@ -97,37 +97,37 @@ export const futureGoals = [
     icon: <IoChatbubblesOutline size={30} />,
     title: "Expand Solutions for Modern Business",
     description:
-      "Codexa is committed to expanding our service portfolio to meet the evolving needs of modern businesses, becoming the go-to partner for transformative technology solutions.",
-  },
-  {
-    icon: <IoDiamondOutline size={30} />,
-    title: "Innovate with Cutting-Edge Technology",
-    description:
-      "We continuously invest in emerging technologies like AI, blockchain, and IoT to deliver innovative solutions that give our clients a competitive advantage in their markets.",
+      "Grow our services to meet evolving digital needs and become your go-to partner for transformative technology.",
   },
   {
     icon: <RiTeamLine size={30} />,
-    title: "Build Stronger Client Partnerships",
+    title: "Innovate Sustainably",
     description:
-      "Codexa focuses on building long-term partnerships with our clients, understanding their evolving needs and providing ongoing support to ensure their continued success.",
+      "Blend future-focused tech with eco-friendly practices to create a greener, smarter tomorrow.",
   },
   {
-    icon: <IoMdCheckmarkCircleOutline size={30} />,
-    title: "Deliver Excellence in Every Project",
+    icon: <IoDiamondOutline size={30} />,
+    title: "Built Around Your Needs",
     description:
-      "We maintain the highest standards of quality and excellence in every project, ensuring that our solutions not only meet but exceed client expectations and industry benchmarks.",
+      "Every solution starts with your goals and evolves through your feedback.",
   },
   {
     icon: <IoMdGlobe size={30} />,
-    title: "Expand Global Reach",
+    title: "Go Global, Stay Personal",
     description:
-      "Codexa aims to expand our global presence, serving clients across different continents while maintaining our commitment to personalized service and local market understanding.",
+      "Strengthen our international presence while customizing solutions to align with each client’s unique requirements.",
+  },
+  {
+    icon: <IoMdCheckmarkCircleOutline size={30} />,
+    title: "Enhance User Experience",
+    description:
+      "Deliver intuitive, engaging, and user-friendly designs that make every interaction meaningful.",
   },
   {
     icon: <LuBrainCircuit size={30} />,
-    title: "Lead in AI and Innovation",
+    title: "Lead with AI, ML, and Future Tech",
     description:
-      "We strive to be at the forefront of AI innovation, developing cutting-edge solutions that leverage artificial intelligence to solve complex business challenges and drive growth.",
+      "Leverage AI, machine learning, and cutting-edge technologies to build solutions that anticipate tomorrow’s challenges.",
   },
 ];
 
@@ -182,7 +182,7 @@ export const healthcareWebSolutions = [
     <div>
       <p class="mb-8">
        <span class="text4 text-primary1">1. Customized Websites for Your Unique Needs : </span>
-        From patient engagement to operational efficiency, Codexa develops healthcare websites that transform how you deliver care. Types of websites we offer include:
+        From patient engagement to operational efficiency, COMPANY NAME develops healthcare websites that transform how you deliver care. Types of websites we offer include:
       </p>
       
       <div class="space-y-6">        
@@ -340,7 +340,7 @@ export const healthcareWebSolutions = [
   <p class="mb-8">
     <span class="text4 text-primary1">5. Revolutionize Patient Care with Apps</span>
     <br />
-    Why Invest in Healthcare Apps? Mobile apps provide a transformative platform for engaging patients, streamlining operations, and enhancing care delivery. By aligning with your specifications, Codexa ensures tailored apps that meet the dynamic needs of modern healthcare.
+    Why Invest in Healthcare Apps? Mobile apps provide a transformative platform for engaging patients, streamlining operations, and enhancing care delivery. By aligning with your specifications, COMPANY NAME ensures tailored apps that meet the dynamic needs of modern healthcare.
   </p>
 
   <div class="space-y-6">
@@ -402,7 +402,7 @@ export const healthcareWebSolutions = [
   <p class="mb-8">
     <span class="text4 text-primary1">7. Data Science Services: Unlocking Insights for Smarter Healthcare</span>
     <br />
-    Data holds the power to transform healthcare, but unlocking its potential requires advanced tools and expertise. Codexa offers data science services designed to improve patient outcomes, streamline operations, and enable informed decision-making.
+    Data holds the power to transform healthcare, but unlocking its potential requires advanced tools and expertise. COMPANY NAME offers data science services designed to improve patient outcomes, streamline operations, and enable informed decision-making.
   </p>
 
   <div class="space-y-6">
@@ -433,7 +433,7 @@ export const healthcareWebSolutions = [
   <p class="mb-8">
     <span class="text4 text-primary1">8. Custom Software for Healthcare Excellence</span>
     <br />
-    Tailored Technology to Meet Complex Needs Generic software often fails to address healthcare-specific challenges. Codexa’s custom software solutions bridge the gap by delivering:
+    Tailored Technology to Meet Complex Needs Generic software often fails to address healthcare-specific challenges. COMPANY NAME’s custom software solutions bridge the gap by delivering:
   </p>
 
   <div class="space-y-6">

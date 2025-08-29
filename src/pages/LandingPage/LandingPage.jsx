@@ -67,8 +67,8 @@ export default function LandingPage({ page }) {
             )}
             <p className="desc max-w-2xl pb-3">
               {isWeb
-                ? "Your website is the digital face of your business. It deserves to be innovative, user-friendly, and aligned with the latest trends. At Codexa, we create custom-built web solutions designed to deliver exceptional user experiences, seamless functionality, and business growth."
-                : "Your business deserves a mobile app that not only meets today’s needs but is ready for the challenges of tomorrow. At Codexa, we craft custom-built mobile applications that deliver seamless user experiences, drive engagement, and accelerate growth across iOS, Android, and cross-platform environments."}
+                ? "Your website is the digital face of your business. It deserves to be innovative, user-friendly, and aligned with the latest trends. At COMPANY NAME, we create custom-built web solutions designed to deliver exceptional user experiences, seamless functionality, and business growth."
+                : "Your business deserves a mobile app that not only meets today’s needs but is ready for the challenges of tomorrow. At COMPANY NAME, we craft custom-built mobile applications that deliver seamless user experiences, drive engagement, and accelerate growth across iOS, Android, and cross-platform environments."}
             </p>
             <Button scrollTo="contact" offset={100}>
               Get Started
@@ -109,7 +109,7 @@ export default function LandingPage({ page }) {
             <h3 className="text2">
               Welcome to{" "}
               <span className="text-primary1">
-                Codexa {isWeb ? "Web" : "App"} Solutions
+                COMPANY NAME {isWeb ? "Web" : "App"} Solutions
               </span>
             </h3>
             <h3 className="text2">
@@ -124,7 +124,7 @@ export default function LandingPage({ page }) {
               className="desc hyphens-auto w-full"
               dangerouslySetInnerHTML={{
                 __html: isWeb
-                  ? `At Codexa, we specialize in building high-performance,
+                  ? `At COMPANY NAME, we specialize in building high-performance,
               scalable, and visually stunning websites that drive business
               growth. Our team of experts transforms your ideas into powerful
               digital experiences, ensuring a strong online presence for your
@@ -137,7 +137,7 @@ export default function LandingPage({ page }) {
               requirements, we craft web solutions that enhance engagement,
               boost conversions, and ensure long-term success in the digital
               landscape.`
-                  : `At Codexa, we specialize in building high-performance, scalable, and 
+                  : `At COMPANY NAME, we specialize in building high-performance, scalable, and 
     user-friendly mobile and web applications that bring your vision to life. 
     Whether you need a native mobile app, cross-platform solution, or a custom 
     web application, we leverage the latest technologies to create seamless 
@@ -150,7 +150,7 @@ export default function LandingPage({ page }) {
               }}
             ></p>
             <h5 className="text4">
-              <span className="text-[#FFD63C]">Codexa:</span>{" "}
+              <span className="text-[#FFD63C]">COMPANY NAME:</span>{" "}
               {isWeb
                 ? "Empowering Your Web Presence with Innovation."
                 : "Crafting the Future of Mobile Apps."}
